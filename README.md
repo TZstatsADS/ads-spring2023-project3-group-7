@@ -8,11 +8,11 @@ Term: Spring 2023
 + Team 7
 + Team members
 	+ Junhan Huang
-	+ Haoyang Li
-	+ Mingrui Shi
-	+ Dongxu Zhang
-	+ Ananya Tinaikar
 	+ Tianyi Zhu
+	+ Dongxu Zhang
+	+ Haoyang Li
+	+ Ananya Tinaikar
+	+ Mingrui Shi
 
 + Project summary: In this project, we created an AI Program for mobile devices to accurately classify 10,000 images. Our goal was to achieve a high level of accuracy while still working within a limited budget. 
 	
