@@ -21,9 +21,11 @@ Term: Spring 2023
 + Model I & Model II: Junhan Huang
 + Label Correction Model: Tianyi Zhu, Tinaikar Ananya, Junhan Huang
 + Cross Validation: Dongxun Zhang, Junhan Huang
-+ Powerpoint: Junhan Huang, Haoyang Li
++ Powerpoint: Haoyang Li, Junhan Huang
 + Presentation: Junhan Huang
 + Final Prediction: Dongxun Zhang
++ Improvement: Junhan Huang, Dongxun Zhang
+
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
