@@ -14,7 +14,7 @@ Term: Spring 2023
 	+ Ananya Tinaikar
 	+ Tianyi Zhu
 
-+ Project summary: In this project, we created an AI Program for mobile devices to accurately classify 50,000 images. Our goal was to achieve a high level of accuracy while still working within a limited budget. 
++ Project summary: In this project, we created an AI Program for mobile devices to accurately classify 10,000 images. Our goal was to achieve a high level of accuracy while still working within a limited budget. 
 	
 
 **Contribution statement**: ([default](doc/a_note_on_contributions.md)) All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
