@@ -1,4 +1,4 @@
-# Project: Weakly supervised learning-- label noise and correction
+# Project 3: Weakly supervised learning-- label noise and correction
 
 
 ### [Full Project Description](doc/project3_desc.md)
